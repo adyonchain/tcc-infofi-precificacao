@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos descargados (se regeneran con kagglehub)
+*.csv
+
+# Entornos
+venv/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
