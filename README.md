@@ -2,7 +2,7 @@
 
 Código do Trabalho de Conclusão de Curso **"Precificação de Informação On-chain: um modelo de IA explicável para mensurar o valor econômico de datasets em ecossistemas InfoFi"** - Especialização em Inteligência Artificial e Big Data, ICMC/USP São Carlos, 2026.
 
-**Autora:** Carla Adriana Ledezma Molina
+**Autora:** Adriana Ledezma Molina
 
 ## Sobre o projeto
 
